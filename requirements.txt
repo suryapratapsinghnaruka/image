@@ -1,7 +1,5 @@
 
 Flask==2.2.3
-flatbuffers==23.5.9
-fonttools==4.39.3
 fpdf==1.7.2
 fpdf2==2.7.4
 future==0.18.3
