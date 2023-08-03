@@ -1,8 +1,6 @@
 Flask
 imageio
 requests-oauthlib
-torch
-torchvision
 touch
 values
 virtualenv
